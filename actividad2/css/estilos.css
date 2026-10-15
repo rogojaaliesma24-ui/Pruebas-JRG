@@ -1,0 +1,28 @@
+table{
+	color:white;
+}
+
+th{
+	color:indigo;
+	background-color:grey;
+	text-align: center;
+}
+th,{
+	text-align: center;
+}
+
+.sistemas{
+	background-color: red;
+}
+.servicios{
+	background-attachment: peachpuff;
+}
+.optativa{
+	background-color: green;
+}
+.proyecto{
+	background-color: blue;
+}
+.recreo{
+	background-color: yellow;
+}
