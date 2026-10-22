@@ -1,0 +1,34 @@
+*{
+	border-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.caja1
+{
+	margin: 2%;
+	padding: 20px;
+	width: 40%;
+	text-align: justify;
+	background-color: yellowgreen;
+	border: 10px solid #yellow;
+}
+.caja2
+{
+	margin: 2%;
+	background-color: #fef0a1;
+	border: 3px dashed #000000;
+	border-radius: 10px 50px;
+	padding: 20px;
+	width: 40%;
+	text-align: justify;
+	box-shadow: 5px 9px 3px; grey;
+}
+.caja3
+{
+	width: 40%;
+	margein: 2%;
+	float: right;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
